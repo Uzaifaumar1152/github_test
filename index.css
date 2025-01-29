@@ -1,0 +1,41 @@
+body{
+    background-image: url(images/contact.jpg);
+    background-size: cover;
+
+}
+div{
+    width: 300px;
+    height: 400px; 
+    background-color: whitesmoke;
+    padding-left: 15px;
+    padding-top: 8px;
+    margin: auto; 
+} 
+.H1{
+    padding-left: 87px;
+}
+textarea{
+    resize: none;
+    width: 270px;
+    height: 100px;
+    
+    
+}
+.ba{
+    width: 280px;
+    background-color: rgb(94, 94, 228);
+    border-radius: 5px;
+    color: beige;
+
+
+}
+.ga{
+    width: 270px;
+    border: 1pt solid rgb(54, 53, 53);
+    
+}
+.ka{
+    width: 270px; 
+    
+    border: 1px solid rgb(77, 73, 73);
+}
